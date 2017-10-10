@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "btfpro",
   "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Node.js app using Express 4",
   "engines": {
     "node": "6.11.1"
   },
@@ -20,12 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://git.heroku.com/btfpro"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
-  ],
-  "license": "MIT"
+  ]
 }
