@@ -197,8 +197,7 @@ header h6 {
 	color:#3d9745;/*86c440*/
 }
 nav {
-position:relative;
-top:-39px;
+	position:relative;
 }
 section{
 margin:0; padding:0;
